@@ -55,4 +55,4 @@ Flags:
 ```
 
 # License
-[MIT](https://github.com/blackfly19/Easypdf/LICENSE)
+[MIT](https://github.com/blackfly19/Easypdf/blob/master/LICENSE)
