@@ -2,11 +2,13 @@
 A simple CLI application to convert multiple markdown files to pdf using wkhtmltopdf.
 
 # Prerequisites
-- go 1.19 
-- wkhtmltopdf version 0.12.6
+- [Go](https://go.dev/dl/) 1.19 or above 
+- [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html) 0.12.6 or above
 
 # Installation
- Clone the repositorty and build a binary.
+
+
+ Clone the repository and build a binary.
  ```
 git clone https://github.com/blackfly19/Easypdf
 cd Easypdf
@@ -53,6 +55,8 @@ Flags:
   -w, --watch               Enable watch mode to see changes in real time
 
 ```
+# Contributing
+Pull requests and feature requests are welcome. Please give proper descriptions when making a PR or raising an issue.
 
 # License
 [MIT](https://github.com/blackfly19/Easypdf/blob/master/LICENSE)
