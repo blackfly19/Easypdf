@@ -1,4 +1,4 @@
-module github.com/blackfly19/Easypdf
+module github.com/blackfly19/easypdf
 
 go 1.19
 
